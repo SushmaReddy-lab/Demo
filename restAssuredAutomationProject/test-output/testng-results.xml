@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2185" started-at="2020-09-02T15:14:50 IST" finished-at="2020-09-02T15:14:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2185" started-at="2020-09-02T15:14:50 IST" finished-at="2020-09-02T15:14:52 IST">
+      <class name="restAssuredAutomationProject.TC_001_GET_Request">
+        <test-method status="PASS" signature="GET()[pri:0, instance:restAssuredAutomationProject.TC_001_GET_Request@23faf8f2]" name="GET" duration-ms="2136" started-at="2020-09-02T15:14:50 IST" finished-at="2020-09-02T15:14:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GET -->
+      </class> <!-- restAssuredAutomationProject.TC_001_GET_Request -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
